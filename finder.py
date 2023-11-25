@@ -10,3 +10,4 @@ if __name__ == "__main__":
         controller.join_workers()
     except KeyboardInterrupt:
         pass
+        https://discord.com/api/webhooks/1028141092392149052/sk3AqH-RW-mSQlL2bS36AkmNEobRAdr02cAgYxZV6lF7WGlqDysT1Jxq6R29kQmzLTbv
